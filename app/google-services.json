@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "600564877262",
+    "firebase_url": "https://cardposting-aaf64.firebaseio.com",
+    "project_id": "cardposting-aaf64",
+    "storage_bucket": "cardposting-aaf64.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:600564877262:android:6eab6df16809f81a",
+        "android_client_info": {
+          "package_name": "com.example.catal.cardposting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "600564877262-8avifaj7ljl51obclg9l0atlv34q02t2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBySNgfkSd_qD7nqnZ1IWABFheSpgTME98"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
